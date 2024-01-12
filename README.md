@@ -1,3 +1,5 @@
+[![Language](https://img.shields.io/badge/Language-French-blue.svg)](https://en.wikipedia.org/wiki/French_language)
+
 # Morph
 
 Cette section du projet comprend trois segments distincts avec des thèmes variés. La transition d'un thème à l'autre s'effectue manuellement en appuyant sur la première lettre de chaque thème. Les thèmes choisis sont les suivants :
